@@ -1,0 +1,4 @@
+INSERT INTO "USER1"."CUSTOMER" (CUSTOMER_ID,FIRST_NM,LAST_NM,GENDER,BIRTH_DT,DEATH_DT) VALUES (1,'JOHN                          ','DOE                                               ','M',{d '1970-06-01'},null);
+INSERT INTO "USER1"."CUSTOMER" (CUSTOMER_ID,FIRST_NM,LAST_NM,GENDER,BIRTH_DT,DEATH_DT) VALUES (2,'JANE                          ','DOE                                               ','F',{d '1973-01-01'},null);
+INSERT INTO "USER1"."CUSTOMER" (CUSTOMER_ID,FIRST_NM,LAST_NM,GENDER,BIRTH_DT,DEATH_DT) VALUES (3,'ADAM                          ','SMITH                                             ','M',{d '1982-08-01'},null);
+INSERT INTO "USER1"."CUSTOMER" (CUSTOMER_ID,FIRST_NM,LAST_NM,GENDER,BIRTH_DT,DEATH_DT) VALUES (4,'SARAH                         ','SMITH                                             ','F',{d '1985-11-01'},null);
